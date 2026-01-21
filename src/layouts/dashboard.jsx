@@ -71,7 +71,7 @@ export function Dashboard() {
         brandName="Divine Life Memorial Park"
         routes={routes}
       />
-      <div className={`${isMappingPage ? 'p-2' : 'px-3 py-4 md:px-4'} transition-[margin] duration-300 ml-0 ${openSidenav ? 'lg:ml-80' : 'lg:ml-0'} mt-24`}>
+      <div className={`${isMappingPage ? 'p-2' : 'px-3 py-4 md:px-4'} transition-[margin] duration-300 ml-0 ${openSidenav ? 'lg:ml-80' : 'lg:ml-0'}`}>
         <DashboardNavbar />
         <Routes>
           {routes.map(
