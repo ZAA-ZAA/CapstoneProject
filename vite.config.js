@@ -9,8 +9,7 @@ export default defineConfig({
   // For production deployment on Vercel
   build: {
     outDir: 'dist',
-    sourcemap: false,
-    minify: 'terser'
+    sourcemap: false
   },
   // Keep local dev server config - won't be used on Vercel
   server: {
