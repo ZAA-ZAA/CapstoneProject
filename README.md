@@ -2,9 +2,9 @@
 
 A web-based lot management system with digital map and ownership management for Divine Life Memorial Park, Cabuyao, Laguna.
 
-## Current Status: Sample Data Mode
+## Current Status: Finished
 
-**⚠️ IMPORTANT:** This version uses sample data and does not require any backend database connection. All authentication and data operations are simulated locally.
+**⚠️ IMPORTANT:** This README version may not be updated, some added new features may not stated
 
 ## Features
 
