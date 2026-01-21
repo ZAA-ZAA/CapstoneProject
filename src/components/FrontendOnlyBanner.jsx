@@ -11,7 +11,7 @@ export const FrontendOnlyBanner = () => {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed top-0 left-0 right-0 z-40 bg-yellow-50 border-b-2 border-yellow-400 px-4 py-3 shadow-md">
+    <div className="fixed top-0 left-0 right-0 z-[9999] bg-yellow-50 border-b-2 border-yellow-400 px-4 py-3 shadow-lg">
       <div className="max-w-full mx-auto flex items-center justify-between gap-4">
         <div className="flex items-center gap-3 flex-1">
           <span className="text-2xl flex-shrink-0">⚠️</span>
