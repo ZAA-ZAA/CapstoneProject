@@ -4,7 +4,7 @@ A web-based lot management system with digital map and ownership management for 
 
 ## Current Status: Finished
 
-**⚠️ IMPORTANT:** This README version may not be updated, some added new features may not stated
+**⚠️ IMPORTANT:** This README version may not be updated, some added new features may not be stated
 
 ## Features
 
